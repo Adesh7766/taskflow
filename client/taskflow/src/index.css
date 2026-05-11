@@ -1,0 +1,3 @@
+@tailwind base;          /* 1. reset browser defaults */
+@tailwind components;    /* 2. reusable components */
+@tailwind utilities;     /* 3. utility classes — always last */
